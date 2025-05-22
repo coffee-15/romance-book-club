@@ -3,7 +3,8 @@ layout: post
 title: "The Burnout"
 author: "Sophie Kinsella"
 image: "/assets/Covers/Theburnout.jpg"
-title_color: "#f36caa"
+title_color: "#ef8496"
 date: 2025-05-22
+rating: 0
 ---
-This is the content of the review...
+Awaiting our reviews! Check back in a month :)

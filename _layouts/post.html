@@ -2,13 +2,30 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>{{ page.title | default: site.title }}</title>
+  <title>{{ page.title }}</title>
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Aboreto&family=Alegreya:ital,wght@0,400..900;1,400..900&family=Figtree:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
 </head>
+
 <body>
-  {{ content }}
+  <main class="post">
+    <p class="post-date">{{ page.date | date: "%Y-%m-%d" }}</p>
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-author">{{ page.author }}</p>
+
+    {% if page.rating %}
+    <p class="post-rating" style="color: {{ page.title_color }}">
+      TOTAL RATING: {{ page.rating }}/5
+    </p>
+    {% endif %}
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </main>
+  {% include footer.html %}
+</body>
 </body>
 </html>
