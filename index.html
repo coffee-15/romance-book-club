@@ -4,14 +4,15 @@ layout: default
 
 <div class="book-feature">
   {% assign latest_post = site.posts | first %}
-  <a href="{{ latest_post.url }}">
-    <img src="{{ latest_post.image }}" alt="Book cover of {{ latest_post.title }}">
-    <h1>{{ latest_post.title }}</h1>
+  <a href="{{ latest_post.url | relative_url }}">
+    <img src="{{ latest_post.image | relative_url }}" alt="Book cover of {{ latest_post.title }}">
+    <h1 style="color: {{ latest_post.title_color | default: '#f8c2d3' }}">{{ latest_post.title | upcase }}</h1>
     <p class="author">{{ latest_post.author }}</p>
   </a>
 </div>
 
 <footer class="footer-links">
-  <a href="/">Romance Book Club</a>
-  <a href="/archive">Archive</a>
+  <a href="{{ '/' | relative_url }}">Romance Book Club</a>
+  <a href="{{ '/archive' | relative_url }}">Archive</a>
 </footer>
+
