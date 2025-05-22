@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="book-feature">
+  {% assign latest_post = site.posts | first %}
+  <a href="{{ latest_post.url }}">
+    <img src="{{ latest_post.image }}" alt="Book cover of {{ latest_post.title }}">
+    <h1>{{ latest_post.title }}</h1>
+    <p class="author">{{ latest_post.author }}</p>
+  </a>
+</div>
+
+<footer class="footer-links">
+  <a href="/">Romance Book Club</a>
+  <a href="/archive">Archive</a>
+</footer>
