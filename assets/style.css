@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Georgia', serif;
+    background: radial-gradient(circle at top, #1e1e1e, #121212);
+    color: #fefefe;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .book-feature {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .book-feature a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .book-feature img {
+    max-width: 280px;
+    height: auto;
+    border-radius: 16px;
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.6);
+    margin-bottom: 1.5rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .book-feature img:hover {
+    transform: scale(1.03);
+  }
+  
+  .book-feature h1 {
+    margin: 0.25rem 0;
+    font-size: 1.8rem;
+    letter-spacing: 1px;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .book-feature .author {
+    font-size: 1rem;
+    color: #d3d3d3;
+  }
+  
+  .footer-links {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    font-size: 0.9rem;
+    background: transparent;
+    color: #a2a2a2;
+  }
+  
+  .footer-links a {
+    color: inherit;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  
+  .footer-links a:hover {
+    color: #f8c2d3;
+  }
+  
