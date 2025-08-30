@@ -21,7 +21,7 @@ Liv enjoyed the side characters of the book, particularly the young receptionist
 
 ## Jess: 3/5
 
-Jess similarly liked the side characters, and found Sasha's mad dash away from her job particularly inspired. Her other highlight was the mother and auntie, who both felt crazy in relatable ways
+Jess similarly liked the side characters, and found Sasha's mad dash away from her job particularly inspired. Her other highlight was the mother and auntie, who both felt crazy in relatable ways.
 
 ## Nicola: 3.5/5
 

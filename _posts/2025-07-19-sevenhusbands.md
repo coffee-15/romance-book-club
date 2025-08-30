@@ -5,6 +5,26 @@ author: "Taylor Jenkins Reid"
 image: "/assets/Covers/EvelynHugo.jpg"
 title_color: "#02964a"
 date: 2025-07-19
-rating: 0
+rating: 4.1
 ---
-Currently reading! Check back soon
+For our second pick, we're reading Nicola's choice of The Seven Husbands of Evelyn Hugo. It was a book we all connected with, although there was a collective agreement that we really need smuttier books to be a *proper* romance book club.
+
+## Anja: 4.5/5
+
+Anja enjoyed the book, and loved Harry and Evelyn's friendship and the period they spent together in New York. She agreed that the ending was not perfect, but wasn't sure how it could really be changed without restructing the story. As our resident writer, we trust her judgement on this one.
+
+## Liv: 4/5
+
+Liv loved the book, and he favourite quote was "Make them pay you what they would pay a white man." (the same as Anja!). She connected with the beautiful stories of Evelyn's 2 soulmates, and felt for poor John and Harry, who she felt deserved to live their whole lives together. In many ways, an absolutely heart breaking book.
+
+## Jess: 3.5/5
+
+Jess liked the book, but found the POV protagonist a bit flat - however Evelyn's story drew her in. She found the ending maybe not as satisfying as she'd hoped.
+
+## Nicola: 4.5/5
+
+Nic loved the glamour of Evelyn and found each of the husbands interesting (or disturbing) in their own way. Her favourite was Harry, and least favourite was of course Don.
+
+## Charlotte 4/5
+
+Charlotte enjoyed the book, and found it to be a very addictive read - she demolished it in about 3 days! She enjoyed the old-Hollywood drama and loved the way the novel used media/newspaper clippings to highlight the ways in which Evelyn constructed her public image to protect herself, and later her family.
