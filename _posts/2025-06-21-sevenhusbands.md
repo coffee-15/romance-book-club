@@ -4,7 +4,7 @@ title: "The Seven Husbands of Evelyn Hugo"
 author: "Taylor Jenkins Reid"
 image: "/assets/Covers/EvelynHugo.jpg"
 title_color: "#02964a"
-date: 2025-07-19
+date: 2025-08-25
 rating: 4.1
 ---
 For our second pick, we're reading Nicola's choice of The Seven Husbands of Evelyn Hugo. It was a book we all connected with, although there was a collective agreement that we really need smuttier books to be a *proper* romance book club.

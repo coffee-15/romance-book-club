@@ -4,7 +4,7 @@ title: "The Burnout"
 author: "Sophie Kinsella"
 image: "/assets/Covers/Theburnout.jpg"
 title_color: "#ef8496"
-date: 2025-06-21
+date: 2025-06-25
 rating: 3
 ---
 This one was an interesting first choice in terms of response, with some members loving it, and others quite the opposite.
