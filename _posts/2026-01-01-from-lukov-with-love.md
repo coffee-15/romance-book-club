@@ -5,6 +5,6 @@ author: "Mariana Zapata"
 image: "/assets/Covers/lukov.jpg"
 title_color: "#b8d4df"
 date: 2025-12-15
-rating: N/A
+rating: 0
 ---
 Currently reading! Check back soon.
