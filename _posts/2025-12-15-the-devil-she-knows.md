@@ -17,7 +17,7 @@ A solid, dependable 3 was Liv's feeling - not too bad, but not outstanding eithe
 
 
 ## Jess: 2.5/5
-While it was her pick, Jess turned out to be this book's harshest critic (much like Charlotte and her pick!). She found tghe characters to be uneven and some downright grating, noting that she felt she "could have written better dialogue than this". She loved the premise of the novel, and maybe that's why there was so much disappointment - with stronger characters and tighter plotting Jess felt this could have been a gem. As our resident legal expert, Jess also noted that the contract seemed pretty sketchy, and was shocked Sam didn't even read it!
+While it was her pick, Jess turned out to be this book's harshest critic (much like Charlotte and her pick!). She found the characters to be uneven and some downright grating, noting that she felt she "could have written better dialogue than this". She loved the premise of the novel, and maybe that's why there was so much disappointment - with stronger characters and tighter plotting Jess felt this could have been a gem. As our resident legal expert, Jess also noted that the contract seemed pretty sketchy, and was shocked Sam didn't even read it!
 
 ## Nicola: 3.5/5
 Nicola was a bit softer than the rest of the group, sharing similar complaints but finiding that the food-porn energy and cooking segments were charming enough to keep her engaged. She found that the chemistry in the book was good throughout, with a compelling dynamic between Sam and Daphne. Outside of those two however, Nic noted that the supporting cast felt flat, especially compared to complex Daphne.

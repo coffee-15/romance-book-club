@@ -27,4 +27,4 @@ My main qualm is that, to Char's point, the book is very twee. I rewrote pretty 
 ## Nicola: 3/5
 
 ## Charlotte: 2.5/5
-While she enjoyed it the first time, Charlotte felt on the re-read it just didn't work for her. "Too twee" was her main point, with the sugary sweet romance between Chloe and Red feeling a bit too gooey to be real. She thinks the leads still have good chemistry on re-read, but that the enemies to lovers of it all just didn't quite hit - Charlotte wants a little bit more zing before the puppy dog eyes come to the fore.
+While she enjoyed it the first time, Charlotte felt on the re-read it just didn't work for her. "Too twee" was her main point, with the sugary sweet romance between Chloe and Red feeling a bit too gooey to be real. She thinks the leads still have good chemistry on re-read, but that the enemies to lovers of it all just didn't quite hit - Charlotte wants a little bit more zing before the puppy dog eyes kick in.
