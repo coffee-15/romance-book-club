@@ -7,7 +7,7 @@ title_color: "#03acbb"
 date: 2025-09-19
 rating: 3.5
 ---
-This one was a throwback pick from Liv, as most of the group has actually read it already. Liv chose it as it's a personal favourite, with cosy vibes and a protagonist whose disability is different from your usual leading ladies.
+This one was a throwback pick from Liv, as most of the group has actually read it already. Liv chose it as it's a personal favourite, with cosy vibes and a protagonist whose experience is different from your usual leading ladies.
 
 ## Anja: 5/5
 Anja has actually submitted her own written review:
