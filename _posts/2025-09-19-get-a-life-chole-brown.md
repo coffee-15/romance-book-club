@@ -5,6 +5,6 @@ author: "Talia Hibbert"
 image: "/assets/Covers/ChloeBrown.jpg"
 title_color: "#03acbb"
 date: 2025-09-19
-rating: 0
+rating: 3
 ---
 Currently reading! Check back soon.
